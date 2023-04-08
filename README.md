@@ -1,6 +1,6 @@
-# Name of project
+# All about trees
 
-> A longer description
+> A simple website about trees and some interesting scientific facts about them.
 
 ## Table of contents
 
