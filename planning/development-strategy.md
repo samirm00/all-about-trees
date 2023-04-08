@@ -25,7 +25,7 @@
 
 ## 1. Title
 
-**As a user I want to see the title of the page**
+### As a user I want to see the title of the page
 
 - This user story is developed on branch `9-title`.
 - This branch is merged to `master` branch after completion.
@@ -42,7 +42,7 @@
 
 ## 2. Logos
 
-**As a user I want to see logos of the page**
+### As a user I want to see logos of the page
 
 - This user story is developed on branch `10-logos`.
 - This branch is merged to `master` branch after completion.
@@ -60,7 +60,7 @@
 
 ## 3. Navigation links
 
-**As a user I want to see navigation links**
+### As a user I want to see navigation links
 
 - This user story is developed on branch `11-navLinks`.
 - This branch is merged to `master` branch after completion.
@@ -80,7 +80,7 @@
 
 ## 4. Description
 
-**As a user I want to see description of the page**
+### As a user I want to see description of the page
 
 - This user story is developed on branch `12-description`.
 - This branch is merged to `master` branch after completion.
@@ -98,7 +98,7 @@
 
 ## 5. Extra link
 
-**As a user I want to see extra link one the page**
+### As a user I want to see extra link one the page
 
 - This user story is developed on branch `13-extraLink`.
 - This branch is merged to `master` branch after completion.
@@ -118,7 +118,7 @@
 
 ## 6. More links
 
-**As a user I want to see more links the page**
+### As a user I want to see more links the page
 
 - This user story is developed on branch `14-moreLinks`.
 - This branch is merged to `master` branch after completion.
@@ -139,7 +139,7 @@
 
 ## 7. Social media links
 
-**As a user I want to see social media links to contact the website owner**
+### As a user I want to see social media links to contact the website owner
 
 - This user story is developed on branch `15-socialMedia`.
 - This branch is merged to `master` branch after completion.
