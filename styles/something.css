@@ -80,3 +80,8 @@ body {
 .interesting-things {
   list-style-type: square;
 }
+
+/* Social media  */
+.top-divider {
+  border-style: solid none none none;
+}
