@@ -1,4 +1,4 @@
-# Restaurants finder
+# All-about-trees
 
 ---
 

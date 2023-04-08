@@ -32,13 +32,14 @@
 
 - Node 14.16.0
 - VSC code
-- JavaScript
 - HTML5
 - CSS3
 
 ## Setup
 
+- clone the repo
 - `npm install`
+- enjoy
 
 ## Code Examples
 
