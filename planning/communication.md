@@ -8,9 +8,13 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       | How  | The topic of discussion      |
+| --------- | :--: | ---------------------------- |
+| Monday    | Zoom | project planning             |
+| Tuesday   | Zoom | create issue and assign them |
+| Wednesday | Zoom | working on the issues        |
+| Thursday  | Zoom | working on the issues        |
+| Friday    | Zoom | reviewing                    |
 
 ## Communication Channels
 
@@ -28,17 +32,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _samir_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- samir: _7h_;
+- name : _6h_;
+- name : _5h_;
+- name : _4h_;
+- name : _3h_;
 
 ## Asking for Help
 
