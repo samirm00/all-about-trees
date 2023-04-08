@@ -26,10 +26,6 @@ create your own!
 
   - _there is a description of the page_
 
-- [ ] As a user I want to see the `description` of the page.
-
-  - _there is a description of the page_
-
 - [ ] As a user I want to see the `links` on the page to be able to access more
       information.
 
