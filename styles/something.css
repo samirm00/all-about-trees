@@ -75,3 +75,8 @@ body {
 .aside-text {
   font-family: monospace;
 }
+
+/* More links  */
+.interesting-things {
+  list-style-type: square;
+}
