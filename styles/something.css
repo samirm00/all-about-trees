@@ -1,3 +1,16 @@
-body {
+/* General styles  */
+
+body 
+{
   background-color: white;
+}
+
+/* Title  */
+.centered-items 
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
